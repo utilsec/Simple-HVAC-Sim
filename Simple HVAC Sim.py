@@ -1,3 +1,14 @@
+#!/usr/bin/env python3
+"""
+============================================================
+This script was vibe coded by Mike Holcomb of UtilSec, LLC.
+
+Additional contribution by unknown individual.
+
+LinkedIn : https://www.linkedin.com/in/mikeholcomb
+Website  : https://mikeholcomb.com
+============================================================
+"""
 import asyncio
 
 import tkinter as tk
