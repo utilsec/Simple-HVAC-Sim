@@ -230,4 +230,4 @@ Add a license file (MIT, Apache 2.0, or similar) to declare reuse terms. Until t
 
 ## Author
 
-Built for hands-on OT/ICS cybersecurity training and content. If this saves you from spinning up a physical PLC for a Modbus exercise, mission accomplished.
+Vibe coded for hands-on OT/ICS cybersecurity training and content. If this saves you from spinning up a physical PLC for a Modbus exercise, mission accomplished.
